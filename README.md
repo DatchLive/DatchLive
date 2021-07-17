@@ -9,6 +9,15 @@
   <a href="https://github.com/DatchLive">
     <img height="20" src="https://img.shields.io/github/followers/DatchLive?label=follow&logo=github&style=flat" />
   </a>
+   <a href="https://zenn.dev/datchlive">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/likes" />
+  </a>
+  <a href="https://zenn.dev/datchlive">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/followers" />
+  </a>
+  <a href="https://zenn.dev/datchlive">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/articles" />
+  </a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatchLive)](https://github.com/DatchLive/github-readme-stats)
