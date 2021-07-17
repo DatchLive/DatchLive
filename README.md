@@ -10,7 +10,6 @@
     <img height="20" src="https://img.shields.io/github/followers/DatchLive?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![DatchLive's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatchLive)](https://github.com/DatchLive/github-readme-stats)
 
 
 <!--
