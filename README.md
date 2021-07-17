@@ -21,7 +21,7 @@
 </p>
 
 [![DatchLive's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatchLive)](https://github.com/DatchLive/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatchLive)](https://github.com/DatchLive/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatchLive&layout=compact)](https://github.com/DatchLive/github-readme-stats)
 
 
 
