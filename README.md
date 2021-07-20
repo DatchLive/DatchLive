@@ -20,8 +20,8 @@
   </a>
 </p>
 
-[![DatchLive's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatchLive)](https://github.com/DatchLive/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatchLive&layout=compact)](https://github.com/DatchLive/github-readme-stats)
+[![DatchLive's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatchLive&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true)](https://github.com/DatchLive/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatchLive&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true)](https://github.com/DatchLive/github-readme-stats)
 
 
 
