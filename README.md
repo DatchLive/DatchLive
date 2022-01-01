@@ -12,6 +12,9 @@
   <a href="https://www.youtube.com/channel/UCpSSbqN186d_mI2FOAlhgTw">
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCpSSbqN186d_mI2FOAlhgTw?logo=YouTube&logoColor=red&style=plastic" />
   </a>
+  <a href="https://www.youtube.com/channel/UCpSSbqN186d_mI2FOAlhgTw">
+    <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCpSSbqN186d_mI2FOAlhgTw?label=Subscribers&logo=YouTube&logoColor=red&style=plastic" />
+  </a>
    <a href="https://zenn.dev/datchlive">
     <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/likes" />
   </a>
