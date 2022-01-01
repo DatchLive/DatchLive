@@ -1,22 +1,19 @@
 ### Hi there 👋
 <p align="left"> 
-  <a href="https://github.com/DatchLive/DatchLive/">
-    <img src="https://komarev.com/ghpvc/?username=DatchLive" alt="DatchLive" />
+  <a href="https://github.com/DatchLive">
+    <img height="20" src="https://img.shields.io/github/followers/DatchLive?label=Followers&logo=GitHub&style=flat-square" />
   </a>
   <a href="http://twitter.com/datchlive">
-    <img height="20" src="https://img.shields.io/twitter/follow/datchlive?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/DatchLive">
-    <img height="20" src="https://img.shields.io/github/followers/DatchLive?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/datchlive?label=Followers&logo=Twitter&style=flat-square" />
   </a>
   <a href="https://www.youtube.com/channel/UCpSSbqN186d_mI2FOAlhgTw">
-    <img height="20" src="https://img.shields.io/youtube/channel/views/UCpSSbqN186d_mI2FOAlhgTw?logo=YouTube&logoColor=red&style=plastic" />
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCpSSbqN186d_mI2FOAlhgTw?label=Views&logo=YouTube&logoColor=red&style=flat-square" />
   </a>
   <a href="https://www.youtube.com/channel/UCpSSbqN186d_mI2FOAlhgTw">
-    <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCpSSbqN186d_mI2FOAlhgTw?label=Subscribers&logo=YouTube&logoColor=red&style=plastic" />
+    <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCpSSbqN186d_mI2FOAlhgTw?label=Subscribers&logo=YouTube&logoColor=red&style=flat-square" />
   </a>
    <a href="https://zenn.dev/datchlive">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/likes" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/likes=flat-square" />
   </a>
   <a href="https://zenn.dev/datchlive">
     <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/followers" />
