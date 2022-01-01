@@ -11,16 +11,6 @@
   </a>
   <a href="https://www.youtube.com/channel/UCpSSbqN186d_mI2FOAlhgTw">
     <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCpSSbqN186d_mI2FOAlhgTw?label=Subscribers&logo=YouTube&logoColor=red&style=flat-square" />
-  </a>
-   <a href="https://zenn.dev/datchlive">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/likes=flat-square" />
-  </a>
-  <a href="https://zenn.dev/datchlive">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/followers" />
-  </a>
-  <a href="https://zenn.dev/datchlive">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/articles" />
-  </a>
 </p>
 
 [![DatchLive's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatchLive&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true)](https://github.com/DatchLive/github-readme-stats)
