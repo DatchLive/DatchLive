@@ -9,6 +9,9 @@
   <a href="https://github.com/DatchLive">
     <img height="20" src="https://img.shields.io/github/followers/DatchLive?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://www.youtube.com/channel/UCpSSbqN186d_mI2FOAlhgTw">
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCpSSbqN186d_mI2FOAlhgTw" />
+  </a>
    <a href="https://zenn.dev/datchlive">
     <img height="20" src="https://zenn.badge.nikaera.com/s/datchlive/likes" />
   </a>
