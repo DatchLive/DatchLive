@@ -23,3 +23,6 @@
  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
 </p>
+
+### Certification
+![aws-certified-cloud-practitioner](https://github.com/DatchLive/DatchLive/assets/71320906/d44ac67e-1c1b-4f30-b58d-f49b283a7ce8)
