@@ -25,4 +25,5 @@
 </p>
 
 ### Certification
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c068bb3-3c51-4f84-ade0-443868df6b0e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-cloud-practitioner](https://github.com/DatchLive/DatchLive/assets/71320906/c451aed3-e981-409a-97c0-e42704bec66d)
+
