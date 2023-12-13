@@ -25,4 +25,4 @@
 </p>
 
 ### Certification
-![aws-certified-cloud-practitioner](https://github.com/DatchLive/DatchLive/assets/71320906/d44ac67e-1c1b-4f30-b58d-f49b283a7ce8)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c068bb3-3c51-4f84-ade0-443868df6b0e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
